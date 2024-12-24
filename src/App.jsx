@@ -1,4 +1,3 @@
-import React from 'react'
 import {BrowserRouter, Route, Routes} from "react-router-dom";
 // import NavigationGlobal from "./Components/Navbar/NavigationGlobal.jsx";
 import Home from "./pages/Home.jsx";
