@@ -1,0 +1,5 @@
+.animal-img{
+    background-image: url("./assets/profile_animal.png");
+    background-position: center;
+    background-size: cover;
+}
